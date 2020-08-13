@@ -89,6 +89,7 @@ main .people, main .wallpaper, main .technology, main .police{
   vertical-align: middle; /*se der erro colocar vertical*/
   padding: 10px 0; 
   object-fit: cover;
+  cursor: pointer;
 }
 
 main .small {
